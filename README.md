@@ -11,7 +11,7 @@ It highlights how weak passwords can be compromised using dictionary attacks and
 - Apply salting for enhanced security
 - Compare different security levels
 
-## 🛠 Tools Used
+##  Tools Used
 - Kali Linux
 - John the Ripper
 - Python
