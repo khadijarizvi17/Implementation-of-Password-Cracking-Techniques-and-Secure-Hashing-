@@ -24,14 +24,14 @@ It highlights how weak passwords can be compromised using dictionary attacks and
 5. Attempted attack on SHA-256 (slow)
 6. Applied salting to passwords
 7. Compared security results
-
-## Results
-
-Method  Result 
- Plain Text  Easily Readable 
- MD5 Cracked 
- SHA-256  Difficult to Crack 
- Salted Passwords Highly Secure 
+   
+##  Results
+| Method | Result |
+|--------|--------|
+| Plain Text | Easily Readable |
+| MD5 | Cracked |
+| SHA-256 | Difficult to Crack |
+| Salted Passwords | Highly Secure |
  
 ##  Conclusion
 This project shows that weak passwords and outdated hashing algorithms like MD5 are insecure. Strong hashing (SHA-256) combined with salting significantly improves password security.
