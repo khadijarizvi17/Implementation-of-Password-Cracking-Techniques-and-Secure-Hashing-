@@ -21,7 +21,7 @@ It highlights how weak passwords can be compromised using dictionary attacks and
 2. Generated MD5 hashes
 3. Performed dictionary attack on MD5 (successfully cracked)
 4. Generated SHA-256 hashes
-5. Attempted attack on SHA-256 (slow / unsuccessful)
+5. Attempted attack on SHA-256 (slow)
 6. Applied salting to passwords
 7. Compared security results
 
